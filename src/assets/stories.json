@@ -1,0 +1,32 @@
+[
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfPLunGPwTrXr3pUYYV204ZzvwTalS4B18D5WURcX6MQ&s=10",
+    "category": "agriculture",
+    "title": "Modern Agriculture in Rwanda"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQVT-Ep9-ofOYKTs4ZmAwjIzfTpMl_sxowmpLXBa_ad4pdGO8Alo7suk&s=10",
+    "category": "news",
+    "title": "Latest News Today"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVwvQhZRuTbjXDR1JMxOW4Q7E_6IC6Z-8fvi87TBb4hA&s=10",
+    "category": "news",
+    "title": "Important News Update"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSGV9kaso0TCKiCncpQykHPYDod1iygP10wNwY7sSZvUx7Xx8OJkFbb8&s=10",
+    "category": "news",
+    "title": "New Development"
+  },
+  {
+    "image": "https://wallpaperaccess.com/full/6071691.jpg",
+    "category": "news",
+    "title": "Today's Top Story"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ3dqcj2lx-5nhU1hLBn1nVrITtRKEmY6UK4o2-Ib_Wt5w2Hwtn-TFBA1U&s=10",
+    "category": "news",
+    "title": "Breaking News"
+  }
+]
