@@ -9,7 +9,6 @@ function Register({ isClosed }) {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
-
   const handleRegister = (e) => {
     e.preventDefault();
 
@@ -18,11 +17,11 @@ function Register({ isClosed }) {
       return;
     }
 
-    console.log("Name:", name);
-    console.log("Phone:", phone);
-    console.log("Email:", email);
-    console.log("Password:", password);
-    console.log("Confirm Password:", confirmPassword);
+    // console.log("Name:", name);
+    // console.log("Phone:", phone);
+    // console.log("Email:", email);
+    // console.log("Password:", password);
+    // console.log("Confirm Password:", confirmPassword);
 
     
     setName("");
@@ -170,6 +169,9 @@ function Register({ isClosed }) {
 }
 
 export default Register;
+
+
+
 
 
 

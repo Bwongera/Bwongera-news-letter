@@ -5,7 +5,6 @@ import { useState } from "react";
 function LoginForm({ isClosed }) {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-
   const handleLogin = (e) => {
     e.preventDefault();
 
@@ -85,6 +84,23 @@ function LoginForm({ isClosed }) {
 }
 
 export default LoginForm;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
